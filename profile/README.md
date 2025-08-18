@@ -83,19 +83,19 @@ A final note. The data science field changes extremely quickly. We will teach yo
 
 | Week | Date (Monday) | Content                                                                                                                       | Assignment Due Date |
 |------|---------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| 1    | 8/19          | Before class: Primers Basics and R Markdown; download R and RStudio<br> Introduction to R, RStudio, RMarkdown<br>  Assignment - None   | N/A                 |
-| 2    | 8/26          | Before class: Work with Data<br>  Exploratory data analysis<br>  Assignment - Exploratory Data Analysis (20 points)                     | 9/3                 |
-| 3    | 9/2           | **No Class Monday 9/2! Before class Wednesday: Visualize Data<br>  Data visualization<br>  Assignment - Bad Plots (20 points)             | 9/9                 |
-| 4    | 9/9           | Before class: Tidy Your Data<br>  Introduction to statistical analysis - T-tests, ANOVA<br>  Assignment - T-Tests and ANOVA (20 points) | 9/16                |
-| 5    | 9/16          | Before class: Iterate<br>  Simple Linear Regression<br>  Assignment - Simple regression (20 points)                                     | 9/23                |
-| 6    | 9/23          | Before class: Write Functions<br>  Multiple Linear Regression<br>  Assignment - Interpreting multiple linear regression (20 points)     | 9/30                |
-| 7    | 9/30          | Power in Statistical Analysis and R Skills Review<br>  Assignment - Power (20 points)                                              | 10/7                |
-| 8    | 10/7          | *Before Class* R, Git and GitHub Setup Instructions<br> **Intro to Git and GitHub**<br>  Assignment - First Git Repo and Pull Request (20 points)                                              | 10/14               |
-| 9    | 10/14         | **Debugging**<br>  Assignment - Debugging LLM Output (20 points)                                                                       | 10/21               |
-| 10   | 10/21         | **Iteration, Functions, API calls**<br> Assignment - National Park Visitation (20 points)                                             | 10/28               |
-| 11   | 10/28         | **Introduction to Working with Geospatial Data; Final Project Overview**                                                          | N/A                 |
-| 12   | 11/4          | **Introduction to Working with Geospatial Data (cont.)** <br>  Assignment - Geospatial Workflows (20 points)                            | 11/11               |
-| 13   | 11/11         | **Nested Modeling**<br>  Assignment - Water quality modeling (20 points)                                                               | 11/18               |
-| 14   | 11/18         | **Introduction to Machine Learning**<br>  Assignment - Remote sensing of water quality (20 points)                                     | 12/02               |
-| 15   | 11/25         | **No Classes - Fall Break**                                                                                                       |                     |
-| 16   | 12/02         | **Final Projects - R Markdown, Bookdown, Quarto, Shiny**<br>  Assignment - Final Project (100 points)                                  | 12/11               |
+| 1    | 8/25          | Before class: Primers Basics and R Markdown; download R and RStudio<br> Introduction to R, RStudio, RMarkdown<br>  Assignment - None   | N/A                 |
+| 2    | 9/1          | **No Class Monday 9/2!** Before class Wednesday: Work with Data<br>  Exploratory data analysis<br>  Assignment - Exploratory Data Analysis (20 points)                     | 9/8                 |
+| 3    | 9/8           |  Before class: Visualize Data<br>  Data visualization<br>  Assignment - Bad Plots (20 points)             | 9/15                 |
+| 4    | 9/15          | Before class: Tidy Your Data<br>  Introduction to statistical analysis - T-tests, ANOVA<br>  Assignment - T-Tests and ANOVA (20 points) | 9/22                |
+| 5    | 9/22          | Before class: Iterate<br>  Simple Linear Regression<br>  Assignment - Simple regression (20 points)                                     | 9/29                |
+| 6    | 9/29          | Before class: Write Functions<br>  Multiple Linear Regression<br>  Assignment - Interpreting multiple linear regression (20 points)     | 10/6                |
+| 7    | 10/6          | Power in Statistical Analysis and R Skills Review<br>  Assignment - Power (20 points)                                              | 10/13                |
+| 8    | 10/13          | *Before Class* R, Git and GitHub Setup Instructions<br> **Intro to Git and GitHub**<br>  Assignment - First Git Repo and Pull Request (20 points)                                              | 10/20               |
+| 9    | 10/20         | **Debugging and AI**<br>  Assignment - Code Debugging and AI (20 points)                                                                       | 10/27               |
+| 10   | 10/27         | **Iteration, Functions, API calls**<br> Assignment - National Park Visitation (20 points)                                             | 11/3               |
+| 11   | 11/3         | **Introduction to Working with Geospatial Data**                                                          | 11/17                 |
+| 12   | 11/10          | **Introduction to Working with Geospatial Data (cont.)** <br>  Assignment - Geospatial Workflows (20 points)                            | 11/17               |
+| 13   | 11/17         | **Nested Modeling**<br>  Assignment - Water quality modeling (20 points)                                                               | 12/1               |
+| 14   | 11/24         |  **No Classes - Fall Break**                                     |                |
+| 15   | 12/1         | **Final Projects - R Markdown, Bookdown, Quarto, Shiny**<br>  Assignment - Final Project (100 points)                                                                                                       | 12/17                   |
+| 16   | 12/8         | **Final Project worktime; Continuing your data science journey :)**                                  |                |
