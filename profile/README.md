@@ -2,7 +2,6 @@
 
 This is a class at Colorado State University taught by Caitlin Mothes and Katie Willi
 
-M-W-F 8:30am-9:50am, WCNR Building Room 243
 
 ## Goals
 
